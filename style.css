@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    background: #eee;
+    margin: 30px;
+}
+
+.box {
+    width: 350px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+}
+
+input, select, button {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+button {
+    background: blue;
+    color: white;
+    border: none;
+}
+
+#result {
+    color: green;
+}
